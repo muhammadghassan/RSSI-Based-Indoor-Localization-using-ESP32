@@ -113,15 +113,7 @@ To assess the performance of our localization system, we will use a **pre-proces
 
 ---
 
-## **Team Collaboration**  
-To ensure smooth execution, we will distribute responsibilities among team members as follows:  
 
-| Team Member | Role | Responsibilities |  
-|-------------|----------------------|--------------------------------------|  
-| **A** | ESP32 Developer | Firmware development, Wi-Fi scanning |  
-| **B** | Networking Engineer | MQTT setup, Data transportation |  
-| **C** | Algorithm Developer | Localization algorithm implementation |  
-| **D** | System Evaluator | Performance analysis, Visualization |  
 
 ---
 
